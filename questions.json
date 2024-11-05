@@ -1,0 +1,52 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Ben has a pencil that is 8 inches long. He finds another pencil that is 5 inches longer than his first pencil. How long is the second pencil?",
+        "options": [
+            "8 inches",
+            "10 inches",
+            "13 inches"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Maria’s jump rope is 9 feet long. She cuts 3 feet off. How long is her jump rope now?",
+        "options": [
+            "6 feet",
+            "7 feet",
+            "8 feet"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3",
+        "question": "A toy car is 15 centimetres long, and a toy truck is 10 centimetres longer than the car. How long is the toy truck?",
+        "options": [
+            "20 cm",
+            "25 cm",
+            "30 cm"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Sam bought a 14-ounce bottle of juice. He drank 4 ounces. How much juice is left in the bottle?",
+        "options": [
+            "8 ounces",
+            "10 ounces",
+            "12 ounces"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Sarah’s cup has 4 litres of water. She adds 3 more litres. How much water is in the cup now?",
+        "options": [
+            "6 litres",
+            "7 litres",
+            "8 litres"
+        ],
+        "correct": 1
+    }
+]
